@@ -23,6 +23,7 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - Get on the job and start building some applications ! :fire:
 
 <p align="center">
-  In ze pocket
   <img width="460" height="300" src="https://i.imgur.com/GoQrzO4.jpg">
 </p>
+
+ <p align="center">In ze pocket</p>
