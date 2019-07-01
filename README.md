@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://memegenerator.net/img/instances/28878115.jpg">
+</p>
+
 # Google Cloud Data Engineer Certification Exam resources
 Some of useful resources I'm using to pass the Google Cloud Professional Data Engineer Certification Exam
 
