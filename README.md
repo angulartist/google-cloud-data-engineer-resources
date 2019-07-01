@@ -25,7 +25,7 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 
 
 # Don't forget
-- [GCP Documentation](https://cloud.google.com/docs/)
+- [GCP Documentation](https://cloud.google.com/docs/) for each GCP product you're using
 - Get to know Storage solutions, the data lifecycle, solutions to secure your data...
 - Get on the job and start building some applications ! :fire:
 
