@@ -2,7 +2,7 @@
 Some of useful resources I'm using to pass the Google Cloud Professional Data Engineer Certification Exam
 
 <p align="center">
-  <img width="460" height="300" src="https://memegenerator.net/img/instances/28878115.jpg">
+  <img src="https://i.imgur.com/Ee2EAHT.jpg">
 </p>
 
 - LinuxAcademy [Google Cloud Certified Professional Data Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-data-engineer) (also get the Dossier - PDF)
