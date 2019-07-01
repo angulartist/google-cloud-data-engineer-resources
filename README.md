@@ -22,6 +22,7 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [Streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 - Tyler Akidau's [Streaming systems](http://streamingsystems.net/) (That's an excellent book talking about data ingest, data processing, windowing, triggers, modeling storage solutions for streaming...)
+- [Sample case studies](https://cloud.google.com/certification/guides/professional-cloud-architect/)
 
 
 # Don't forget
