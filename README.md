@@ -16,6 +16,13 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [Qwiklabs on Data Engineering](https://www.qwiklabs.com/quests/25?locale=en)
 - [Cloud Next uploads](https://www.youtube.com/user/googlecloudplatform)
 - [Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer) (that's free and a good way to test your knowledge + also there are detailed explanations for each answer!)
+- Spotify’s Event Delivery [Part I](https://labs.spotify.com/2016/02/25/spotifys-event-delivery-the-road-to-the-cloud-part-i/)
+- Spotify’s Event Delivery [Part II](https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/)
+- Spotify’s Event Delivery [Part III](https://labs.spotify.com/2016/03/10/spotifys-event-delivery-the-road-to-the-cloud-part-iii/)
+- [Streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+- [Streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
+- Tyler Akidau's [Streaming systems](http://streamingsystems.net/)
+
 
 # Don't forget
 - [GCP Documentation](https://cloud.google.com/docs/)
