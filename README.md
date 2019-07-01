@@ -1,4 +1,4 @@
-# google-cloud-data-engineer-resources
+# Google Cloud Data Engineer Certification Exam resources
 Some of useful resources I'm using to pass the Google Cloud Professional Data Engineer Certification Exam
 
 - LinuxAcademy [Google Cloud Certified Professional Data Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-data-engineer) (also get the Dossier - PDF)
