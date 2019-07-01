@@ -21,7 +21,7 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - Spotify’s Event Delivery [Part III](https://labs.spotify.com/2016/03/10/spotifys-event-delivery-the-road-to-the-cloud-part-iii/)
 - [Streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
-- Tyler Akidau's [Streaming systems](http://streamingsystems.net/)
+- Tyler Akidau's [Streaming systems](http://streamingsystems.net/) (That's an excellent book talking about data ingest, data processing, windowing, triggers, modeling storage solutions for streaming...)
 
 
 # Don't forget
