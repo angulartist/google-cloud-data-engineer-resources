@@ -9,6 +9,8 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [Data Engineering on GCP Cheatsheet](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet)
 - Coursera [Data Engineering on Google Cloud Platform Specialization ](https://www.coursera.org/specializations/gcp-data-machine-learning)
 - Coursera [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
+- [Jordan Walker materials](https://github.com/jorwalk/data-engineering-gcp)
+- [Daniel Chang post](https://www.linkedin.com/pulse/google-cloud-professional-data-engineer-how-i-got-certified-chang/)
 - [GCP Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/)
 - Guang X's amazing [Study guide](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3)
 - Sathish vj's amazing [GCPDEE notes](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
