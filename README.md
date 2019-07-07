@@ -14,14 +14,17 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [GCP Flowcharts](https://grumpygrace.dev/posts/gcp-flowcharts/)
 - Guang X's amazing [Study guide](https://medium.com/weareservian/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3)
 - Sathish vj's amazing [GCPDEE notes](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
-- Lab [Cloud Dataflow NYC Taxi UC](https://codelabs.developers.google.com/codelabs/cloud-dataflow-nyc-taxi-tycoon/#0)
 - [Yitaek notes](https://github.com/Leverege/gcp-data-engineer-exam/blob/master/Data%20Engineering%20Notes.pdf)
 - [Qwiklabs on Data Engineering](https://www.qwiklabs.com/quests/25?locale=en)
 - [Cloud Next uploads](https://www.youtube.com/user/googlecloudplatform)
 - [Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer) (that's free and a good way to test your knowledge + also there are detailed explanations for each answer!)
+
+# Batch & Stream processing
+- [Strata + Hadoop World 2017 - San Jose, California](https://learning.oreilly.com/videos/strata-hadoop/9781491976166/9781491976166-video301620)
 - Spotify’s Event Delivery [Part I](https://labs.spotify.com/2016/02/25/spotifys-event-delivery-the-road-to-the-cloud-part-i/)
  [Part II](https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/)
  [Part III](https://labs.spotify.com/2016/03/10/spotifys-event-delivery-the-road-to-the-cloud-part-iii/)
+ - Lab [Cloud Dataflow NYC Taxi UC](https://codelabs.developers.google.com/codelabs/cloud-dataflow-nyc-taxi-tycoon/#0)
 - [Streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 - Tyler Akidau's [Streaming systems](http://streamingsystems.net/) (That's an excellent book talking about data ingest, data processing, windowing, triggers, modeling storage solutions for streaming...)
