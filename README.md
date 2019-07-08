@@ -20,6 +20,7 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer) (that's free and a good way to test your knowledge + also there are detailed explanations for each answer!)
 
 # Batch & Stream processing
+- [Apache Beam with Frances Perry](https://dev.to/sedaily/apache-beam-with-frances-perry)
 - [Strata + Hadoop World 2017 - San Jose, California](https://learning.oreilly.com/videos/strata-hadoop/9781491976166/9781491976166-video301620)
 - Spotify’s Event Delivery [Part I](https://labs.spotify.com/2016/02/25/spotifys-event-delivery-the-road-to-the-cloud-part-i/)
  [Part II](https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/)
