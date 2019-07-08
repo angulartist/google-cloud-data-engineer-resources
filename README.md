@@ -21,6 +21,9 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [GCP Podcast](https://www.gcppodcast.com/) (Mind-blowing stuff, put ur earpods or whatever and chill)
 
 # Batch & Stream processing
+
+> Okay... the exam isn't deep diving into this advanced stuff but that's just worth to explore.
+
 - [Google Dataflow paper](https://ai.google/research/pubs/pub43864)
 - [Apache Beam with Frances Perry](https://dev.to/sedaily/apache-beam-with-frances-perry)
 - [Strata + Hadoop World 2017 - San Jose, California](https://learning.oreilly.com/videos/strata-hadoop/9781491976166/9781491976166-video301620)
