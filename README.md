@@ -22,6 +22,7 @@ Some of useful resources I'm using to pass the Google Cloud Professional Data En
 - [Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer) (that's free and a good way to test your knowledge + also there are detailed explanations for each answer!)
 - [GCP Podcast](https://www.gcppodcast.com/) (Mind-blowing stuff, put ur earpods or whatever and chill)
 - [Gaurav Sen YT](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw) (Learn about load balancing, caching, pub/sub model, DB modeling and so on.)
+- [Great feedback + study path](https://towardsdatascience.com/how-to-pass-the-google-cloud-professional-data-engineer-exam-f241d7191e47)
 
 # Batch & Stream processing
 
